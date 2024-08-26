@@ -6,7 +6,7 @@
 
 #### Image: 
 
-<img src="[[DSC06236.heic](https://ca.slack-edge.com/TBMBG710S-U07JL75V1FD-9a2f91e334a2-192)](https://us-east.storage.cloudconvert.com/tasks/b1870800-518d-46f2-a144-fa142069635b/DSC06283.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240826%2Fva%2Fs3%2Faws4_request&X-Amz-Date=20240826T234347Z&X-Amz-Expires=86400&X-Amz-Signature=fba2f19b54a1dc4a856be60b5c8a46c2f9b28517fbac9f78c988fee7a6292e37&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22DSC06283.png%22&response-content-type=image%2Fpng&x-id=GetObject)" width="200">
+<img src="https://imgbox.com/rAdrZYa5" width="200">
 
 ##### Avatar: 
 
