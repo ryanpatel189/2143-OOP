@@ -6,7 +6,7 @@
 
 #### Image: 
 
-<img src="DSC06236.heic" width="200">
+<img src="[DSC06236.heic](https://ca.slack-edge.com/TBMBG710S-U07JL75V1FD-9a2f91e334a2-192)" width="200">
 
 ##### Avatar: 
 
