@@ -6,7 +6,7 @@
 
 #### Image: 
 
-<img src="https://imgbox.com/rAdrZYa5" width="200">
+<img src="[https://imgbox.com/rAdrZYa5](https://imgbox.com/gallery/edit/xvfcabvH3F/xSj0LHHNL3pSo2Uj )" width="200">
 
 ##### Avatar: 
 
