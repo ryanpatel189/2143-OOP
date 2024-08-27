@@ -6,7 +6,7 @@
 
 #### Image: 
 
-<img src= "https://im.ge/i/DSC06283.ftwbo1" width="200">
+<img src="https://i.im.ge/2024/08/27/ftwbo1.DSC06283.jpeg" width="200">
 
 ##### Avatar: 
 
