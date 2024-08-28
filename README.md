@@ -5,7 +5,7 @@
 #### Email: ryanpatel189@gmail.com
 
 #### Image: 
-[![fA0GDS.DSC06597-2.jpeg](https://i.im.ge/2024/08/28/fA0GDS.DSC06597-2.jpeg)](https://im.ge/i/DSC06597-2.fA0GDS)
+![DSC06597 2](https://github.com/user-attachments/assets/3dec446b-da86-4cd2-a54a-ca29f053f49a)
 
 ##### Avatar: 
 
