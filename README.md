@@ -11,5 +11,5 @@
 
 ##### Avatar: 
 
-<img src="(https://github.com/user-attachments/assets/6270e5cb-1a19-48a7-9861-af64c243ce0a)" width="75" height="75" />
+<img src="https://github.com/user-attachments/assets/6270e5cb-1a19-48a7-9861-af64c243ce0a" width="75" height="75" />
 
