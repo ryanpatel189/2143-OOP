@@ -5,7 +5,7 @@
 #### Email: ryanpatel189@gmail.com
 
 #### Image: 
-![DSC06597 2](https://github.com/user-attachments/assets/3dec446b-da86-4cd2-a54a-ca29f053f49a)
+![DSC06597 2](https://github.com/user-attachments/assets/3dec446b-da86-4cd2-a54a-ca29f053f49a) width="200">
 
 ##### Avatar: 
 
