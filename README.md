@@ -7,8 +7,8 @@
 #### Image: 
 ![DSC06597 2](https://github.com/user-attachments/assets/3dec446b-da86-4cd2-a54a-ca29f053f49a width="200">)
 
+<img src="https://github.com/user-attachments/assets/3dec446b-da86-4cd2-a54a-ca29f053f49a" width="250" height="250" />
 
-<img src="[https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/user-attachments/assets/3dec446b-da86-4cd2-a54a-ca29f053f49a)](https://github.com/user-attachments/assets/3dec446b-da86-4cd2-a54a-ca29f053f49a)" width="250" height="250" />
 
 ##### Avatar: 
 
